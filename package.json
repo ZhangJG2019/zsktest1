@@ -20,7 +20,7 @@
   "dependencies": {
     "axios": "^0.16.2",
     "body-parser": "^1.17.2",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "element-ui": "^1.4.13",
     "express": "^4.15.3",
     "highlight.js": "^9.12.0",
